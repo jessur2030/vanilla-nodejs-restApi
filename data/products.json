@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "ASUS ROG Zephyrus G15",
+    "description": "Gaming & Entertainment Laptop (AMD Ryzen 9 5900HS 8-Core, 40GB RAM, 2TB PCIe SSD, 15.6 2K Quad HD (2560x1440), NVIDIA RTX 3070, Wifi, Bluetooth, 1xHDMI, Win 10 Pro)",
+    "price": 2199
+  },
+  {
+    "id": "2",
+    "name": "MacBook Pro 16 - Apple M1 Pro chip",
+    "description": "The new MacBook Pro delivers game-changing performance for pro users. Choose the powerful M1 Pro or the even more powerful M1 Max to supercharge pro-level workflows while getting amazing battery life.¹ And with an immersive 16-inch Liquid Retina XDR display and an array of pro ports, you can do more than ever with MacBook Pro.",
+    "price": 2499
+  },
+  {
+    "id": "3",
+    "name": "MacBook Pro 14 - Apple M1 Pro chip",
+    "description": "The new MacBook Pro delivers game-changing performance for pro users. With the powerful M1 Pro to supercharge pro-level workflows while getting amazing battery life.¹ And with an immersive 14-inch Liquid Retina XDR display and an array of pro ports, you can do more than ever with MacBook Pro.",
+    "price": 1999
+  },
+  {
+    "id": "4",
+    "name": "NVIDIA - GeForce RTX 3080 Ti",
+    "description": "The GeForce RTX™ 3080 Ti delivers the ultra performance that gamers crave, powered by Ampere—NVIDIA’s 2nd gen RTX architecture. It’s built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast G6X memory for an amazing gaming experience.",
+    "price": 1199.99
+  },
+  {
+    "id": "5",
+    "name": "AMD - Ryzen 9 5900X 4th Gen 12-core",
+    "description": "12 cores to power through gaming, streaming and more. Get the high-speed gaming performance of the world’s best desktop processor. A fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor.",
+    "price": 549
+  }
+]
